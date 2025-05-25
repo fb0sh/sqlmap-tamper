@@ -2,10 +2,15 @@
 
 SQLmap tamper scripts
 
+SQLmap tamper scripts
+
 General tamper option and tamper's list
+
 
 ```
 tamper=name_of_the_tamper
+sqlmap 1.9.2#stable
+/usr/share/sqlmap/tamper
 sqlmap 1.9.2#stable
 /usr/share/sqlmap/tamper
 ```
